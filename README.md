@@ -69,7 +69,7 @@ I am a Cloud and DevOps Engineer focused on building scalable, secure, and effic
 * **Microsoft Certified: Azure Administrator Associate**
 * **Associate Cloud Engineer GCP (In Progress)**
 * **Red Hat Certified System Administrator (In Progress)**
-* **Nutanix Certified Professional - Multicloud Infrastructure (NCP-MCI) (In Progress)**
+* **Nutanix Certified Professional - Multicloud Infrastructure (NCP-MCI)**
 * **Nutanix Certified Associate (NCA)**
 * **HCIA-Cloud Computing (In Progress)**
 * **HCCDP – Solution Architectures**
