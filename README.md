@@ -64,10 +64,10 @@ I am a Cloud and DevOps Engineer focused on building scalable, secure, and effic
 ---
 
 ## Certifications
-* **Certified Kubernetes Administrator (CKA) (In Progress)**
+* **Certified Kubernetes Administrator (CKA)**
 * **Microsoft Certified: Azure Solutions Architect Expert**
 * **Microsoft Certified: Azure Administrator Associate**
-* **Associate Cloud Engineer GCP (In Progress)**
+* **Associate Cloud Engineer GCP**
 * **Red Hat Certified System Administrator (In Progress)**
 * **Nutanix Certified Professional - Multicloud Infrastructure (NCP-MCI)**
 * **Nutanix Certified Associate (NCA)**
