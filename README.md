@@ -58,7 +58,6 @@ With a strong "Developer Mindset," I leverage **Java** and **Go (Golang)** to bu
 ## Experience & Education
 
 ### Professional Experience
-* **Incoming Associate DevOps Engineer** | Fawry *(Starting Sept 2026)*
 * **Cloud Computing Intern** | Konecta *(07/2025 – 01/2026)*
 * **Cloud DevOps Mentee** | Deloitte Innovation Hub (DIH) *(07/2025 – 09/2025)*
 
