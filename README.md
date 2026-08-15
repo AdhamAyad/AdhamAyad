@@ -1,78 +1,82 @@
-# Adham Ayad
-### Cloud & DevOps Engineer
+# Hi there, I'm Adham Ayad
+### Cloud DevOps & Infrastructure Engineer
 
-[LinkedIn](https://linkedin.com/in/adham-ayad-159a1424a) | [Email](mailto:adhamayad000@gmail.com)
+[LinkedIn](https://linkedin.com/in/adhamayad) | [Email](mailto:adhamayad000@gmail.com) | [Portfolio/Resume](https://linkedin.com/in/adhamayad)
 
 ---
 
 ## About Me
-I am a Cloud and DevOps Engineer focused on building scalable, secure, and efficient cloud environments. My experience includes hands-on work with **GCP, AWS, Azure, and Huawei Cloud**, along with container technologies like Docker, Kubernetes, and Podman. I am skilled in building CI/CD pipelines, automating infrastructure (IaC), and Linux system administration.
+I am a Cloud DevOps Engineer and a graduate of the intensive **ITI 9-Month Cloud Architecture program**, specializing in building, automating, and maintaining highly available enterprise environments. I bring a unique hybrid perspective to system engineering, bridging the gap between software development and IT operations. 
 
-* **Cloud Platforms:** GCP, AWS, Azure, Huawei Cloud
-* **Automation (IaC):** Terraform
-* **CI/CD & Containers:** Jenkins, GitHub Actions, Docker, Kubernetes, Podman
-* **Administration:** Red Hat Linux System Administration
+With a strong "Developer Mindset," I leverage **Java** and **Go (Golang)** to build custom automation tools and Kubernetes Operators, alongside extensive experience in multi-cloud architectures (AWS, GCP, Azure) and on-premise infrastructure (VMware, Linux).
+
+* **Cloud Platforms:** AWS, GCP, Azure, Huawei Cloud
+* **Automation & GitOps:** Terraform, Ansible, ArgoCD, GitHub Actions
+* **Containers & Orchestration:** Kubernetes (CKA), Red Hat OpenShift, Knative
+* **Development:** Java (Spring Boot), Go, Python, Bash
 
 ---
 
-## Technical Skills
+## Technical Stack
 
-| Category | Technologies & Concepts |
+| Category | Technologies |
 | :--- | :--- |
-| **Cloud Platforms** | AWS, GCP, Azure, Huawei Cloud (IaaS, PaaS, SaaS) |
-| **DevOps & Automation** | Terraform, Jenkins, GitHub Actions, Docker, Kubernetes, Podman, Nginx |
-| **Linux Administration** | Red Hat Linux, System Configuration, Monitoring, Security |
-| **Programming & Databases** | Python, Java, SQL, Dart |
-| **Virtualization** | FusionCompute, FusionAccess, KVM |
-| **Networking** | Networking (CCNA) |
+| **Cloud Platforms** | AWS, Google Cloud (GCP), Microsoft Azure, Huawei Cloud |
+| **Containerization & Orchestration** | Kubernetes (K8s), Red Hat OpenShift, Docker, Podman, Helm, Istio, Knative |
+| **Infrastructure as Code (IaC)** | Terraform, Ansible |
+| **CI/CD & GitOps** | ArgoCD, Jenkins, GitHub Actions |
+| **Observability & Monitoring** | Prometheus, Grafana, Loki, Tempo |
+| **Virtualization & OS** | VMware vSphere, Red Hat (RHEL), Windows Server, Linux Admin |
+| **Development & Scripting** | Java 21, Go (Golang), Python, Bash |
+| **Networking & Routing** | TCP/IP, DNS, HAProxy, Nginx, OSPF, VLANs, CCNA Concepts |
 
 ---
 
 ## Featured Projects
 
+### j-kube-watch: Kubernetes Operator
+* Engineered a high-performance Kubernetes Operator using **Java 21**, custom **CRDs**, and **Helm**.
+* Dynamically managed and deduplicated Pod lifecycles, bringing a developer approach to cluster automation.
+
+### KubeVision Serverless Platform
+* Architected a scale-to-zero AI inference platform on **AWS EKS** using **Knative** and **KServe**.
+* Driven entirely by **ArgoCD (GitOps)** and fully monitored via **Prometheus & Grafana**.
+
+### Kubernetes Automated DR Pipeline
+* Architected an automated disaster recovery pipeline using **Ansible** and **Terraform**.
+* Secured via **GitHub Actions (OIDC)** for end-to-end S3 backups and restoration.
+
+### High Availability Web Cluster Automation
+* Orchestrated a redundant, highly available web infrastructure.
+* Utilized **HAProxy**, **Keepalived**, and secure traffic tunneling via **Squid Proxy**, fully automated with Ansible.
+
 ### End-to-End RAG Application on GCP
-* Designed and deployed a full Retrieval-Augmented Generation (RAG) application entirely on Google Cloud Platform using Terraform.
-* Configured all cloud resources, automated infrastructure provisioning, and ensured seamless integration of components.
-
-### Brownfield AWS Infrastructure as Code Adoption (Konecta Internship Task)
-* Reverse-engineered an existing, manually-configured AWS environment to be managed by Terraform (IaC).
-* Authored HCL definitions for all live resources (VPC, NAT Gateways, RDS Aurora) and used `terraform import` to sync the infrastructure with the state file without service disruption.
-
-### CI/CD Pipeline for PropEase (Graduation Project)
-* Implemented a CI/CD pipeline using Jenkins, Docker Swarm, and Docker Stack for a real estate platform.
-* Automated build and deployment from GitHub, ensuring high availability, zero-downtime updates, and automatic rollbacks.
-
-### Serverless Image Uploader (AWS Serverless Web App)
-* Developed a serverless web application for image uploads using AWS Lambda, API Gateway, S3, and SES.
-* Implemented serverless processing, automated email notifications, and secure access via IAM roles.
+* Deployed a RAG AI application on GCP with automated IaC resource provisioning (**Terraform**) and secure API endpoint configurations.
 
 ---
 
 ## Experience & Education
 
 ### Professional Experience
-* **Cloud Computing Intern** | Konecta (07/2025 – Present)
-* **Cloud DevOps Mentee** | Deloitte Innovation Hub (DIH) Mentorship (07/2025 – 09/2025)
+* **Incoming Associate DevOps Engineer** | Fawry *(Starting Sept 2026)*
+* **Cloud Computing Intern** | Konecta *(07/2025 – 01/2026)*
+* **Cloud DevOps Mentee** | Deloitte Innovation Hub (DIH) *(07/2025 – 09/2025)*
 
-### Education & Training
-* **Cloud Architecture 9-Months Diploma** | Information Technology Institute (ITI) (10/2025 – Present)
-* **Cybersecurity Academy – NTI (64 Hours)** | National Telecommunication Institute (NTI) (09/2025 – 10/2025)
-* **Linux System Administration (72 Hours)** | National Telecommunication Institute (NTI) (03/2025 – 04/2025)
-* **Cloud Computing NTI-Huawei ETA (70 Hours)** | National Telecommunication Institute (NTI) (09/2024 – 10/2024)
-* **Bachelor's in Computer Science** | Misr Academy of Technology (Graduated 07/2025)
+### Education
+* **Cloud Architecture 9-Month Professional Diploma** | Information Technology Institute (ITI) *(Graduated Jun 2026)*
+* **Bachelor of Computer Science** | Misr Academy of Technology *(Graduated Jul 2025)*
 
 ---
 
 ## Certifications
 * **Certified Kubernetes Administrator (CKA)**
-* **Microsoft Certified: Azure Solutions Architect Expert**
-* **Microsoft Certified: Azure Administrator Associate**
-* **Associate Cloud Engineer GCP**
-* **Red Hat Certified System Administrator (In Progress)**
-* **Nutanix Certified Professional - Multicloud Infrastructure (NCP-MCI)**
+* **Red Hat Certified Developer in Cloud-native Applications (EX188)**
+* **Google Cloud Certified: Associate Cloud Engineer**
+* **AWS Certified Solutions Architect – Associate**
+* **AWS Certified Cloud Practitioner**
+* **Microsoft Azure Administrator (AZ-104)**
 * **Nutanix Certified Associate (NCA)**
-* **HCIA-Cloud Computing (In Progress)**
-* **HCCDP – Solution Architectures**
-* **HCCDP - Cloud Migration**
-* **HCCDA – Tech Essentials**
-* **HCCDA – Big Data**
+* **Huawei Certified: HCCDA (Tech Essentials / Big Data)**
+
+---
+*Feel free to explore my repositories to see my code and infrastructure automation in action!*
